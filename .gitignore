@@ -1,0 +1,25 @@
+## .NET build output
+bin/
+obj/
+
+## Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+## OS
+Thumbs.db
+.DS_Store
+
+## NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Local logs / playgrounds
+*.log
+sample-source/
+sample-replica/

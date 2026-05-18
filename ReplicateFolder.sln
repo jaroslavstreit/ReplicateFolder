@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicateFolder", "ReplicateFolder\ReplicateFolder.csproj", "{9047E394-153D-4EA3-B68C-5C70964A83E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplicateFolder.Tests", "ReplicateFolder.Tests\ReplicateFolder.Tests.csproj", "{B1A2C3D4-E5F6-7890-1234-56789ABCDEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9047E394-153D-4EA3-B68C-5C70964A83E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9047E394-153D-4EA3-B68C-5C70964A83E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9047E394-153D-4EA3-B68C-5C70964A83E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9047E394-153D-4EA3-B68C-5C70964A83E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A2C3D4-E5F6-7890-1234-56789ABCDEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A2C3D4-E5F6-7890-1234-56789ABCDEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A2C3D4-E5F6-7890-1234-56789ABCDEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A2C3D4-E5F6-7890-1234-56789ABCDEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
